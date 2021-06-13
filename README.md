@@ -8,7 +8,7 @@
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ybs6863@gmail.com)](ybs6863@gmail.com)
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Q-holi=Q-holi)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Q-holi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Q-holi/Q-holi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
