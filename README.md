@@ -11,7 +11,7 @@ MY Email : ybs6863@gmail.com
 1. 어드벤쳐(Black Forest)
 2. 덱 빌딩(Cross Road) 
 
-*교육 없이 독학으로 개발 중 *~~
+*교육 없이 독학으로 개발 중* ~~
 
 
 
